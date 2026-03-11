@@ -7,10 +7,19 @@ from typing import Any, Dict, Optional
 from redis import Redis
 
 
-REDIS_URL = os.getenv("REDIS_URL", "redis://localhost:6379/0")
-TTL_SECONDS = int(os.getenv("SESSION_TTL_SECONDS", str(60 * 60 * 24 * 30)))  
+REDIS_URL = os.getenv("REDIS_URL")
 
-_r = Redis.from_url(REDIS_URL, decode_responses=True)
+try:
+    if REDIS_URL:
+        _r = Redis.from_url(REDIS_URL, decode_responses=True)
+        _r.ping()
+    else:
+        raise Exception("Redis not configured")
+except Exception:
+    _r = None
+    _memory_store = {}
+
+TTL_SECONDS = int(os.getenv("SESSION_TTL_SECONDS", str(60 * 60 * 24 * 30)))  
 
 
 def _key(session_id: str) -> str:
@@ -26,8 +35,10 @@ def get_or_create_session_id(session_id: Optional[str]) -> str:
             pass
 
     new_id = uuid.uuid4().hex[:12]
-    _r.set(_key(new_id), json.dumps({}), ex=TTL_SECONDS)
-    return new_id
+    if _r:
+        _r.set(_key(new_id), json.dumps({}), ex=TTL_SECONDS)
+    else:
+        _memory_store[new_id] = {}
 
 
 def load_state(session_id: str) -> Dict[str, Any]:
