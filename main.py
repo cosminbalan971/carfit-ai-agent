@@ -3,6 +3,7 @@ from pydantic import BaseModel
 from typing import Optional
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
+import os
 
 from app.infrastructure.llm import explain_recommendation
 from app.infrastructure.data import CARS
@@ -13,7 +14,14 @@ from app.services.nlp import parse_message_to_agent_input
 from app.models.preferences import profile_to_agent_prefs
 
 app = FastAPI()
-app.mount("/ui", StaticFiles(directory="ui"), name="ui")
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+app.mount(
+    "/ui",
+    StaticFiles(directory=os.path.join(BASE_DIR, "ui")),
+    name="ui",
+)
 
 class AgentInput(BaseModel):
     session_id: Optional[str] = None
