@@ -1,0 +1,1222 @@
+[
+  {
+    "name": "Toyota Yaris (2020+)",
+    "brand": "Toyota",
+    "model": "Yaris",
+    "year_start": 2020,
+    "year_end": 2026,
+    "fuel": "hybrid",
+    "body": "hatchback",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 10,
+      "comfort": 6,
+      "running_cost": 9,
+      "practicality": 6,
+      "performance": 5,
+      "safety": 8,
+      "resale": 9
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Honda Jazz (2020+)",
+    "brand": "Honda",
+    "model": "Jazz",
+    "year_start": 2020,
+    "year_end": 2026,
+    "fuel": "hybrid",
+    "body": "hatchback",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 9,
+      "comfort": 7,
+      "running_cost": 8,
+      "practicality": 8,
+      "performance": 5,
+      "safety": 8,
+      "resale": 8
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Suzuki Swift (2017+)",
+    "brand": "Suzuki",
+    "model": "Swift",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 8,
+      "comfort": 5,
+      "running_cost": 8,
+      "practicality": 5,
+      "performance": 6,
+      "safety": 7,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Dacia Sandero (2021+)",
+    "brand": "Dacia",
+    "model": "Sandero",
+    "year_start": 2021,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 7,
+      "comfort": 6,
+      "running_cost": 9,
+      "practicality": 7,
+      "performance": 5,
+      "safety": 6,
+      "resale": 7
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Hyundai i20 (2020+)",
+    "brand": "Hyundai",
+    "model": "i20",
+    "year_start": 2020,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 8,
+      "comfort": 6,
+      "running_cost": 8,
+      "practicality": 6,
+      "performance": 6,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Kia Ceed (2018+)",
+    "brand": "Kia",
+    "model": "Ceed",
+    "year_start": 2018,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 8,
+      "comfort": 7,
+      "running_cost": 7,
+      "practicality": 7,
+      "performance": 6,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Mazda 3 (2019+)",
+    "brand": "Mazda",
+    "model": "3",
+    "year_start": 2019,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 8,
+      "comfort": 7,
+      "running_cost": 6,
+      "practicality": 6,
+      "performance": 7,
+      "safety": 8,
+      "resale": 8
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Volkswagen Golf (2017+)",
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "hatchback",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 7,
+      "comfort": 7,
+      "running_cost": 7,
+      "practicality": 7,
+      "performance": 7,
+      "safety": 8,
+      "resale": 8
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Skoda Octavia (2020+)",
+    "brand": "Skoda",
+    "model": "Octavia",
+    "year_start": 2020,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "wagon",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 7,
+      "comfort": 8,
+      "running_cost": 8,
+      "practicality": 10,
+      "performance": 7,
+      "safety": 8,
+      "resale": 8
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Toyota Corolla Touring Sports (2019+)",
+    "brand": "Toyota",
+    "model": "Corolla Touring Sports",
+    "year_start": 2019,
+    "year_end": 2026,
+    "fuel": "hybrid",
+    "body": "wagon",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 10,
+      "comfort": 7,
+      "running_cost": 8,
+      "practicality": 9,
+      "performance": 6,
+      "safety": 8,
+      "resale": 9
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Peugeot 308 SW (2022+)",
+    "brand": "Peugeot",
+    "model": "308 SW",
+    "year_start": 2022,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "wagon",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 6,
+      "comfort": 8,
+      "running_cost": 7,
+      "practicality": 9,
+      "performance": 7,
+      "safety": 8,
+      "resale": 6
+    },
+    "risk_penalty": 3
+  },
+  {
+    "name": "Ford Focus Wagon (2018+)",
+    "brand": "Ford",
+    "model": "Focus Wagon",
+    "year_start": 2018,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "wagon",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 6,
+      "comfort": 7,
+      "running_cost": 7,
+      "practicality": 9,
+      "performance": 7,
+      "safety": 8,
+      "resale": 6
+    },
+    "risk_penalty": 3
+  },
+  {
+    "name": "Toyota Camry (2019+)",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year_start": 2019,
+    "year_end": 2026,
+    "fuel": "hybrid",
+    "body": "sedan",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 10,
+      "comfort": 9,
+      "running_cost": 7,
+      "practicality": 8,
+      "performance": 7,
+      "safety": 8,
+      "resale": 8
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Mazda 6 (2018+)",
+    "brand": "Mazda",
+    "model": "6",
+    "year_start": 2018,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "sedan",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 8,
+      "comfort": 8,
+      "running_cost": 6,
+      "practicality": 7,
+      "performance": 7,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Skoda Superb (2020+)",
+    "brand": "Skoda",
+    "model": "Superb",
+    "year_start": 2020,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "sedan",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 7,
+      "comfort": 9,
+      "running_cost": 7,
+      "practicality": 9,
+      "performance": 7,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Honda Civic Sedan (2019+)",
+    "brand": "Honda",
+    "model": "Civic Sedan",
+    "year_start": 2019,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "sedan",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 9,
+      "comfort": 7,
+      "running_cost": 7,
+      "practicality": 7,
+      "performance": 7,
+      "safety": 8,
+      "resale": 8
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "BMW 3 Series (2019+)",
+    "brand": "BMW",
+    "model": "3 Series",
+    "year_start": 2019,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "sedan",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 6,
+      "comfort": 8,
+      "running_cost": 5,
+      "practicality": 7,
+      "performance": 9,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 4
+  },
+  {
+    "name": "Mercedes-Benz C-Class (2018+)",
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year_start": 2018,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "sedan",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 6,
+      "comfort": 9,
+      "running_cost": 5,
+      "practicality": 7,
+      "performance": 8,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 4
+  },
+  {
+    "name": "Dacia Duster (2018+)",
+    "brand": "Dacia",
+    "model": "Duster",
+    "year_start": 2018,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "suv",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 7,
+      "comfort": 6,
+      "running_cost": 8,
+      "practicality": 8,
+      "performance": 5,
+      "safety": 6,
+      "resale": 7
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Toyota RAV4 (2019+)",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year_start": 2019,
+    "year_end": 2026,
+    "fuel": "hybrid",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 10,
+      "comfort": 8,
+      "running_cost": 7,
+      "practicality": 9,
+      "performance": 7,
+      "safety": 9,
+      "resale": 9
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Mazda CX-5 (2017+)",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 8,
+      "comfort": 8,
+      "running_cost": 6,
+      "practicality": 8,
+      "performance": 7,
+      "safety": 8,
+      "resale": 8
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Hyundai Tucson (2021+)",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year_start": 2021,
+    "year_end": 2026,
+    "fuel": "hybrid",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 8,
+      "comfort": 8,
+      "running_cost": 7,
+      "practicality": 8,
+      "performance": 6,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Kia Sportage (2022+)",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year_start": 2022,
+    "year_end": 2026,
+    "fuel": "hybrid",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 8,
+      "comfort": 8,
+      "running_cost": 7,
+      "practicality": 8,
+      "performance": 6,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Nissan Qashqai (2021+)",
+    "brand": "Nissan",
+    "model": "Qashqai",
+    "year_start": 2021,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "suv",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 7,
+      "comfort": 8,
+      "running_cost": 7,
+      "practicality": 8,
+      "performance": 6,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Volvo XC60 (2018+)",
+    "brand": "Volvo",
+    "model": "XC60",
+    "year_start": 2018,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 7,
+      "comfort": 9,
+      "running_cost": 5,
+      "practicality": 8,
+      "performance": 7,
+      "safety": 10,
+      "resale": 7
+    },
+    "risk_penalty": 3
+  },
+  {
+    "name": "BMW X3 (2018+)",
+    "brand": "BMW",
+    "model": "X3",
+    "year_start": 2018,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 6,
+      "comfort": 8,
+      "running_cost": 5,
+      "practicality": 8,
+      "performance": 8,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 4
+  },
+  {
+    "name": "Renault Zoe (2020+)",
+    "brand": "Renault",
+    "model": "Zoe",
+    "year_start": 2020,
+    "year_end": 2026,
+    "fuel": "ev",
+    "body": "hatchback",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 7,
+      "comfort": 6,
+      "running_cost": 9,
+      "practicality": 6,
+      "performance": 6,
+      "safety": 7,
+      "resale": 6
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Tesla Model 3 (2021+)",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year_start": 2021,
+    "year_end": 2026,
+    "fuel": "ev",
+    "body": "sedan",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 6,
+      "comfort": 7,
+      "running_cost": 8,
+      "practicality": 7,
+      "performance": 9,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 3
+  },
+  {
+    "name": "Hyundai Kona Electric (2021+)",
+    "brand": "Hyundai",
+    "model": "Kona Electric",
+    "year_start": 2021,
+    "year_end": 2026,
+    "fuel": "ev",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 8,
+      "comfort": 7,
+      "running_cost": 9,
+      "practicality": 7,
+      "performance": 7,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Skoda Enyaq (2021+)",
+    "brand": "Skoda",
+    "model": "Enyaq",
+    "year_start": 2021,
+    "year_end": 2026,
+    "fuel": "ev",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 7,
+      "comfort": 8,
+      "running_cost": 8,
+      "practicality": 9,
+      "performance": 7,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Toyota Auris (2013-2018)",
+    "brand": "Toyota",
+    "model": "Auris",
+    "year_start": 2013,
+    "year_end": 2018,
+    "fuel": "hybrid",
+    "body": "hatchback",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 9,
+      "comfort": 6,
+      "running_cost": 8,
+      "practicality": 7,
+      "performance": 5,
+      "safety": 7,
+      "resale": 8
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Toyota Prius (2016+)",
+    "brand": "Toyota",
+    "model": "Prius",
+    "year_start": 2016,
+    "year_end": 2026,
+    "fuel": "hybrid",
+    "body": "hatchback",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 10,
+      "comfort": 7,
+      "running_cost": 9,
+      "practicality": 7,
+      "performance": 5,
+      "safety": 8,
+      "resale": 8
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Honda Civic Hatchback (2017+)",
+    "brand": "Honda",
+    "model": "Civic Hatchback",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 9,
+      "comfort": 7,
+      "running_cost": 7,
+      "practicality": 7,
+      "performance": 7,
+      "safety": 8,
+      "resale": 8
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Mazda 2 (2015+)",
+    "brand": "Mazda",
+    "model": "2",
+    "year_start": 2015,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 8,
+      "comfort": 5,
+      "running_cost": 8,
+      "practicality": 5,
+      "performance": 6,
+      "safety": 7,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Kia Rio (2017+)",
+    "brand": "Kia",
+    "model": "Rio",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 8,
+      "comfort": 6,
+      "running_cost": 8,
+      "practicality": 6,
+      "performance": 5,
+      "safety": 7,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Hyundai i30 (2017+)",
+    "brand": "Hyundai",
+    "model": "i30",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 8,
+      "comfort": 7,
+      "running_cost": 7,
+      "practicality": 7,
+      "performance": 6,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Seat Leon (2017+)",
+    "brand": "Seat",
+    "model": "Leon",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 7,
+      "comfort": 7,
+      "running_cost": 7,
+      "practicality": 7,
+      "performance": 7,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Skoda Fabia (2018+)",
+    "brand": "Skoda",
+    "model": "Fabia",
+    "year_start": 2018,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 8,
+      "comfort": 6,
+      "running_cost": 8,
+      "practicality": 7,
+      "performance": 5,
+      "safety": 7,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Volkswagen Polo (2018+)",
+    "brand": "Volkswagen",
+    "model": "Polo",
+    "year_start": 2018,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 7,
+      "comfort": 6,
+      "running_cost": 7,
+      "practicality": 6,
+      "performance": 6,
+      "safety": 8,
+      "resale": 8
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Renault Clio (2019+)",
+    "brand": "Renault",
+    "model": "Clio",
+    "year_start": 2019,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "hatchback",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 7,
+      "comfort": 6,
+      "running_cost": 8,
+      "practicality": 6,
+      "performance": 5,
+      "safety": 8,
+      "resale": 6
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Skoda Octavia (2013-2020)",
+    "brand": "Skoda",
+    "model": "Octavia",
+    "year_start": 2013,
+    "year_end": 2020,
+    "fuel": "diesel",
+    "body": "wagon",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 7,
+      "comfort": 7,
+      "running_cost": 8,
+      "practicality": 10,
+      "performance": 6,
+      "safety": 7,
+      "resale": 8
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Volkswagen Passat Variant (2015+)",
+    "brand": "Volkswagen",
+    "model": "Passat Variant",
+    "year_start": 2015,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "wagon",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 7,
+      "comfort": 8,
+      "running_cost": 7,
+      "practicality": 9,
+      "performance": 7,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Toyota Avensis Touring Sports (2015-2018)",
+    "brand": "Toyota",
+    "model": "Avensis Touring Sports",
+    "year_start": 2015,
+    "year_end": 2018,
+    "fuel": "diesel",
+    "body": "wagon",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 9,
+      "comfort": 7,
+      "running_cost": 7,
+      "practicality": 9,
+      "performance": 5,
+      "safety": 7,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Mazda 6 Wagon (2017+)",
+    "brand": "Mazda",
+    "model": "6 Wagon",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "wagon",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 8,
+      "comfort": 8,
+      "running_cost": 6,
+      "practicality": 8,
+      "performance": 7,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Kia Ceed SW (2019+)",
+    "brand": "Kia",
+    "model": "Ceed SW",
+    "year_start": 2019,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "wagon",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 8,
+      "comfort": 7,
+      "running_cost": 7,
+      "practicality": 8,
+      "performance": 6,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Mercedes-Benz E-Class Estate (2017+)",
+    "brand": "Mercedes-Benz",
+    "model": "E-Class Estate",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "wagon",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 6,
+      "comfort": 10,
+      "running_cost": 4,
+      "practicality": 9,
+      "performance": 8,
+      "safety": 9,
+      "resale": 7
+    },
+    "risk_penalty": 4
+  },
+  {
+    "name": "Toyota Avensis (2015-2018)",
+    "brand": "Toyota",
+    "model": "Avensis",
+    "year_start": 2015,
+    "year_end": 2018,
+    "fuel": "diesel",
+    "body": "sedan",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 9,
+      "comfort": 7,
+      "running_cost": 7,
+      "practicality": 8,
+      "performance": 5,
+      "safety": 7,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Volkswagen Passat (2015+)",
+    "brand": "Volkswagen",
+    "model": "Passat",
+    "year_start": 2015,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "sedan",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 7,
+      "comfort": 8,
+      "running_cost": 7,
+      "practicality": 8,
+      "performance": 7,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Audi A4 (2016+)",
+    "brand": "Audi",
+    "model": "A4",
+    "year_start": 2016,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "sedan",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 6,
+      "comfort": 8,
+      "running_cost": 5,
+      "practicality": 7,
+      "performance": 8,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 4
+  },
+  {
+    "name": "Volvo S90 (2017+)",
+    "brand": "Volvo",
+    "model": "S90",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "sedan",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 7,
+      "comfort": 10,
+      "running_cost": 5,
+      "practicality": 8,
+      "performance": 7,
+      "safety": 10,
+      "resale": 6
+    },
+    "risk_penalty": 3
+  },
+  {
+    "name": "Lexus ES (2019+)",
+    "brand": "Lexus",
+    "model": "ES",
+    "year_start": 2019,
+    "year_end": 2026,
+    "fuel": "hybrid",
+    "body": "sedan",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 10,
+      "comfort": 10,
+      "running_cost": 7,
+      "practicality": 8,
+      "performance": 6,
+      "safety": 9,
+      "resale": 8
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "BMW 5 Series (2017+)",
+    "brand": "BMW",
+    "model": "5 Series",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "sedan",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 6,
+      "comfort": 9,
+      "running_cost": 5,
+      "practicality": 8,
+      "performance": 9,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 4
+  },
+  {
+    "name": "Toyota C-HR (2017+)",
+    "brand": "Toyota",
+    "model": "C-HR",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "hybrid",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 9,
+      "comfort": 7,
+      "running_cost": 8,
+      "practicality": 6,
+      "performance": 5,
+      "safety": 8,
+      "resale": 8
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Mazda CX-30 (2019+)",
+    "brand": "Mazda",
+    "model": "CX-30",
+    "year_start": 2019,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 8,
+      "comfort": 7,
+      "running_cost": 6,
+      "practicality": 7,
+      "performance": 7,
+      "safety": 8,
+      "resale": 8
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Kia XCeed (2020+)",
+    "brand": "Kia",
+    "model": "XCeed",
+    "year_start": 2020,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "suv",
+    "gearbox": "manual",
+    "scores": {
+      "reliability": 8,
+      "comfort": 7,
+      "running_cost": 7,
+      "practicality": 7,
+      "performance": 6,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Hyundai Santa Fe (2019+)",
+    "brand": "Hyundai",
+    "model": "Santa Fe",
+    "year_start": 2019,
+    "year_end": 2026,
+    "fuel": "hybrid",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 8,
+      "comfort": 9,
+      "running_cost": 6,
+      "practicality": 9,
+      "performance": 7,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Volvo XC40 (2018+)",
+    "brand": "Volvo",
+    "model": "XC40",
+    "year_start": 2018,
+    "year_end": 2026,
+    "fuel": "petrol",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 7,
+      "comfort": 8,
+      "running_cost": 6,
+      "practicality": 7,
+      "performance": 6,
+      "safety": 9,
+      "resale": 7
+    },
+    "risk_penalty": 3
+  },
+  {
+    "name": "Peugeot 3008 (2017+)",
+    "brand": "Peugeot",
+    "model": "3008",
+    "year_start": 2017,
+    "year_end": 2026,
+    "fuel": "diesel",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 6,
+      "comfort": 8,
+      "running_cost": 7,
+      "practicality": 8,
+      "performance": 6,
+      "safety": 8,
+      "resale": 6
+    },
+    "risk_penalty": 3
+  },
+  {
+    "name": "Nissan Leaf (2018+)",
+    "brand": "Nissan",
+    "model": "Leaf",
+    "year_start": 2018,
+    "year_end": 2026,
+    "fuel": "ev",
+    "body": "hatchback",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 7,
+      "comfort": 7,
+      "running_cost": 9,
+      "practicality": 7,
+      "performance": 6,
+      "safety": 8,
+      "resale": 6
+    },
+    "risk_penalty": 2
+  },
+  {
+    "name": "Kia e-Niro (2019+)",
+    "brand": "Kia",
+    "model": "e-Niro",
+    "year_start": 2019,
+    "year_end": 2026,
+    "fuel": "ev",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 8,
+      "comfort": 7,
+      "running_cost": 9,
+      "practicality": 8,
+      "performance": 7,
+      "safety": 8,
+      "resale": 7
+    },
+    "risk_penalty": 1
+  },
+  {
+    "name": "Volkswagen ID.4 (2021+)",
+    "brand": "Volkswagen",
+    "model": "ID.4",
+    "year_start": 2021,
+    "year_end": 2026,
+    "fuel": "ev",
+    "body": "suv",
+    "gearbox": "auto",
+    "scores": {
+      "reliability": 6,
+      "comfort": 8,
+      "running_cost": 8,
+      "practicality": 8,
+      "performance": 7,
+      "safety": 8,
+      "resale": 6
+    },
+    "risk_penalty": 3
+  }
+]

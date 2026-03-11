@@ -1,0 +1,54 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CarFit</title>
+  <link rel="stylesheet" href="/ui/styles.css" />
+  <script src="/ui/app.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand-wrap">
+        <h1 class="brand">CarFit</h1>
+      </div>
+
+      <div class="topbar-right">
+        <div class="session-pill">
+          Session: <span id="sessionId">—</span>
+        </div>
+        <button id="resetBtn" class="ghost-btn">Reset session</button>
+      </div>
+    </header>
+
+    <main class="chat-layout">
+      <section class="chat-card">
+        <div id="chat" class="chat">
+          <div class="welcome">
+            <div class="welcome-title">Find your car fit</div>
+            <div class="welcome-subtitle">
+              Describe what you want naturally — for example:
+              “quiet hybrid SUV, comfy, 2018+, budget 18k”
+            </div>
+          </div>
+        </div>
+
+        <div class="composer">
+          <input
+            id="msg"
+            class="composer-input"
+            placeholder="Message CarFit..."
+            autocomplete="off"
+          />
+          <button id="sendBtn" class="send-btn">Send</button>
+        </div>
+
+        <div id="status" class="status"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
