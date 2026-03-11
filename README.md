@@ -27,6 +27,7 @@ Agent: Based on your preferences I found two strong options: Honda Civic (2019+)
 # Architecture
 
 The system uses a **hybrid AI architecture**.
+
 User -> Chat UI -> Conversation Router (LLM) -> Preference Extraction ->Deterministic Recommendation Engine -> LLM Explanation Layer -> Final Response
 
 This allows the agent to remain conversational while keeping recommendations grounded in deterministic logic.
